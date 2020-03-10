@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "Name": "Zeke",
+      "bday": "01/16/00",
+      "gender": "Male"
+      "email":"zeke@zeke.com",
+      "address":"Buhangin",
+      "elemnetary":"Sakya",
+      "highSchool":"Sakya",
+      "seniorHighSchool":"ADDU",
+      "college":"ADDU"
+      
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
