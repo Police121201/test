@@ -1,14 +1,18 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "Name": "Zeke",
+      "bday": "01/16/00",
+      "gender": "Male",
+      "email":"zeke@zeke.com",
+      "address":"Buhangin",
+      "elemnetary":"Sakya",
+      "highSchool":"Sakya",
+      "seniorHighSchool":"ADDU",
+      "college":"ADDU"
+      
+    }
   ],
   "profile": {
     "name": "typicode"
   }
-}
